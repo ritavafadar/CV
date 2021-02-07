@@ -1,0 +1,27 @@
+/*.wrap {
+  display: table;
+}
+
+.wrap img {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+ul {
+  background-image: url(http://placehold.it/50);
+  list-style-type: none;
+  background-position: left center;
+  background-repeat: no-repeat;
+  height: 105px;
+  width: 621px;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+li {
+  display : inline-block;
+}
+*/
+.star{
+color: yellow
+}
